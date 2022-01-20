@@ -27,7 +27,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/testimonials-grid-section-using-html-css-grid-flexbox-media-query-vKI4HRu9H]
 - Live Site URL: [https://genesisgran.github.io/testimonials-grid-section/]
 
 ## Author
